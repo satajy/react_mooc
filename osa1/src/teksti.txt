@@ -1,0 +1,2 @@
+<Sisalto osat = {osat} />
+<Yhteensa = {osat }/>
